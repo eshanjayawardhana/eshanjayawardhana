@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world" style="width:100%;"/>
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world" style="width:100%;" />
 
 <h1 align="center">Hi 👋, I'm Eshan Jayawardana</h1>
 <h3 align="center">🚀 A Passionate Full-Stack Web Developer from Sri Lanka 🇱🇰</h3>
@@ -12,24 +12,21 @@
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif" />
 
-### 🧠 About Me:
-- 🔭 I’m currently working on **modern web applications**  
-- 🌱 Learning **Tailwind CSS, and improving my **backend skills**
-- 🧩 Exploring **Spring Boot microservices** and **API development**
-- 🎯 Interested in creating real-world web solutions with clean UI/UX
+### 🧠 About Me
+ - 🌱 Currently learning **React**, **Tailwind CSS**, and sharpening my **Spring Boot** backend skills  
+- 🎯 Interested in creating real-world web solutions with clean UI/UX  
 
 ---
 
-### 📬 Connect with me:
+### 📬 Connect with Me
 <p align="left">
-  <a href="https://linkedin.com/in/eshan-jayawardhana" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
+  <a href="https://linkedin.com/in/eshan-jayawardhana" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40" />
   </a>
-  <a href="https://fb.com/eshanjayawardanaa" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="40" />
+  <a href="https://fb.com/eshanjayawardanaa" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" height="40" width="40" />
   </a>
 </p>
-
 
 ---
 
@@ -49,13 +46,13 @@
 
 ---
 
-### 📊 GitHub Stats:
+### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eshanjayawardhana&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=eshanjayawardhana&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=eshanjayawardhana&theme=radical" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=eshanjayawardhana&theme=radical" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshanjayawardhana&layout=compact&theme=radical" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshanjayawardhana&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
