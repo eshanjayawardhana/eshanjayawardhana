@@ -14,7 +14,7 @@
   <h3>🧠 About Me</h3>
   <ul>
     <li>🌱 Currently exploring <strong>React</strong>, <strong>Tailwind CSS</strong>, and deepening my <strong>Spring Boot</strong> skills.</li>
-    <li>🎯 Passionate about crafting impactful web solutions with intuitive UI/UX.</li>
+    <li>🎯 Interested in creating real-world web solutions with clean UI/UX.</li>
   </ul>
 </div>
 
